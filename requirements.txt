@@ -2,8 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 bert_extractive_summarizer
-langchain
 tiktoken
-unstructured
+transformers
 PyPDF2
-summarizertransformers
+
