@@ -1,1 +1,11 @@
-
+streamlit 
+google-generativeai
+python-dotenv
+bert_extractive_summarizer
+langchain
+tiktoken
+unstructured
+pdf2image
+pdfminer
+PyPDF2
+summarizertransformers
