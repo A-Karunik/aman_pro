@@ -6,4 +6,4 @@ tiktoken
 transformers
 PyPDF2
 nltk
-
+torch
