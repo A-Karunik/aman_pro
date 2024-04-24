@@ -5,4 +5,5 @@ bert_extractive_summarizer
 tiktoken
 transformers
 PyPDF2
+nltk
 
